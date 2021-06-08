@@ -12,7 +12,7 @@ description: "QuPath workshop"
 
 This page will contain the key links & data you will need.
 
-Because at least some of you are already familiar with QuPath, and this is an advanced course, we want focus on things that are *beyond* what is explained in the [QuPath documentation](https://qupath.readthedocs.io/) and [existing video tutorials](http://youtube.com/c/qupath).
+Because at least some of you are already familiar with QuPath, and this is an advanced course, we want to focus on things that are *beyond* what is explained in the [QuPath documentation](https://qupath.readthedocs.io/) and [existing video tutorials](http://youtube.com/c/qupath).
 
 With that in mind, we ask you to come prepared so we can maximize the usefulness of the session.
 
