@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <img src="{{ site.baseurl }}/assets/images/front-page.jpg" class="max-width-60" />
+  <br />
+
+  {% for post in site.introduction %}
+    <div class="post-content">
+      {{ post.content }}
+    </div>
+  {% endfor %}
+
+
+  <!-- <h1 class="page-heading">Sessions here</h1> -->
+  <ol>
+  {% for post in site.sessions %}
+      <li>
+        <span style="font-size: 150%">
+          <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}</a>
+          </span>
+          <br/> &nbsp; &nbsp;
+        {% if post.description %}
+          <span class="post-description">{{ post.description }}</span>
+        {% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+
+  {{ content }}
+
+  <!-- <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h3>
+        {% if post.description %}
+          <span class="post-description">{{ post.description }}</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul> -->
+
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+
+</div>
