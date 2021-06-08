@@ -16,7 +16,7 @@
 title: QuPath EMBO 2021
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An introduction to QuPath.
+  QuPath practical workshop material
 baseurl: "/embo" # the subpath of your site, e.g. /blog
 url: "https://qupath.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: qupath
