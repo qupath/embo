@@ -47,7 +47,7 @@ If you still have trouble, please let us know early so we can help!
 <details markdown="1" class="gifview">
 <summary>Why QuPath?</summary>
 <br/>
-One reason to use QuPath is that it can handle *whole slide images*: intimidating large, high-resolution 2D images, usually of complex tissue sections.
+One reason to use QuPath is that it can handle *whole slide images*: intimidatingly large, pyramidal, high-resolution 2D images, usually of complex tissue sections.
 
 However, QuPath isn't *just* for whole slide images, and there are lots of other applications where it can help.
 
