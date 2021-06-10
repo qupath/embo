@@ -23,7 +23,7 @@ With that in mind, we ask you to come prepared so we can maximize the usefulness
 **Please do the following things _before_ 1 July 2021**:
 
 1. **Download and install** the [**latest stable release of QuPath (v0.2.3)**](https://github.com/qupath/qupath/releases/)
-2. **Download the sample images** (you will be sent a direct link by email, but they're also [here](https://qupath.readthedocs.io/en/0.2/docs/intro/acknowledgements.html))
+2. **Download the sample images** (you can find them on eCampus under the 'Pre-course study material', but they're also [here](https://qupath.readthedocs.io/en/0.2/docs/intro/acknowledgements.html))
 3. **Familiarize yourself with QuPath** via the following tutorials:
   * [Getting started](https://qupath.readthedocs.io/en/0.2/docs/starting/index.html#getting-started)
   * [Projects](https://qupath.readthedocs.io/en/0.2/docs/tutorials/projects.html)
