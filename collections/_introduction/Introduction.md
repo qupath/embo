@@ -22,7 +22,8 @@ With that in mind, we ask you to come prepared so we can maximize the usefulness
 
 **Please do the following things _before_ 1 July 2021**:
 
-1. **Download and install** the [**latest stable release of QuPath (v0.2.3)**](https://github.com/qupath/qupath/releases/)
+1. **Download and install** the ~~[latest stable release of QuPath (v0.2.3)](https://github.com/qupath/qupath/releases/)~~
+  * **[Download QuPath v0.3.0-rc1 here!](https://github.com/qupath/qupath/releases/tag/v0.3.0-rc1)**
 2. **Download the sample images** (you can find them on eCampus under the 'Pre-course study material', but they're also [here](https://qupath.readthedocs.io/en/0.2/docs/intro/acknowledgements.html))
 3. **Familiarize yourself with QuPath** via the following tutorials:
   * [Getting started](https://qupath.readthedocs.io/en/latest/docs/starting/index.html#getting-started)
@@ -61,7 +62,7 @@ However, QuPath isn't *just* for whole slide images, and there are lots of other
 
 QuPath v0.3.0-rc1 has *just* been released (as in, about an hour before the workshop).
 
-So make sure you're using the *very* latest version of the software, please [download it here](https://github.com/qupath/qupath/releases/tag/v0.3.0-rc1).
+So to make sure you're using the *very* latest version of the software, please [download it here](https://github.com/qupath/qupath/releases/tag/v0.3.0-rc1).
 </div>
 
 Throughout the practical session, we'll look at the following things:

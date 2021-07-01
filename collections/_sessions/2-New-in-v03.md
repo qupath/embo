@@ -31,7 +31,7 @@ Therefore if you had any trouble with the pre-workshop material, these could hel
 
 But the **main** purpose of this part of the workshop is to explore an entirely new feature **Density maps**.
 
-![Density maps](https://qupath.readthedocs.io/en/latest/_images/density_map_tumor.jpg)
+![Density maps](https://qupath.readthedocs.io/en/latest/_images/density_map_tumor.jpg){: .shadow-image .max-width-90}
 
 
 <div class="warning" markdown="block">
