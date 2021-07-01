@@ -1,0 +1,11 @@
+#!/bin/bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+for file in $DIR/*.svg ; do
+	NAME=$(basename "$file" .svg)
+	OUTPUT="$DIR/$NAME.png"
+	
+	# Results in images about 50x50 pixels
+	convert -density 2250 -resize 10% "$file" "$OUTPUT"	
+done

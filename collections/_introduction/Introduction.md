@@ -25,12 +25,12 @@ With that in mind, we ask you to come prepared so we can maximize the usefulness
 1. **Download and install** the [**latest stable release of QuPath (v0.2.3)**](https://github.com/qupath/qupath/releases/)
 2. **Download the sample images** (you can find them on eCampus under the 'Pre-course study material', but they're also [here](https://qupath.readthedocs.io/en/0.2/docs/intro/acknowledgements.html))
 3. **Familiarize yourself with QuPath** via the following tutorials:
-  * [Getting started](https://qupath.readthedocs.io/en/0.2/docs/starting/index.html#getting-started)
-  * [Projects](https://qupath.readthedocs.io/en/0.2/docs/tutorials/projects.html)
-  * [Detecting tissue](https://qupath.readthedocs.io/en/0.2/docs/tutorials/thresholding.html)
-  * [Cell detection](https://qupath.readthedocs.io/en/0.2/docs/tutorials/cell_detection.html)
-  * [Cell classification](https://qupath.readthedocs.io/en/0.2/docs/tutorials/cell_classification.html)
-  * [Pixel classification](https://qupath.readthedocs.io/en/0.2/docs/tutorials/pixel_classification.html)
+  * [Getting started](https://qupath.readthedocs.io/en/latest/docs/starting/index.html#getting-started)
+  * [Projects](https://qupath.readthedocs.io/en/latest/docs/tutorials/projects.html)
+  * [Detecting tissue](https://qupath.readthedocs.io/en/latest/docs/tutorials/thresholding.html)
+  * [Cell detection](https://qupath.readthedocs.io/en/latest/docs/tutorials/cell_detection.html)
+  * [Cell classification](https://qupath.readthedocs.io/en/latest/docs/tutorials/cell_classification.html)
+  * [Pixel classification](https://qupath.readthedocs.io/en/latest/docs/tutorials/pixel_classification.html)
 
 </div>
 
@@ -56,16 +56,12 @@ However, QuPath isn't *just* for whole slide images, and there are lots of other
 
 ## Practical plan
 
-Our plan for the 90 minute practical session is to show how QuPath can be useful both for advanced algorithm developers and for end users.
-We intend to cover as much of the following as time allows:
+<div class="tip" markdown="block">
+### New QuPath release candidate!
 
-* **What's new in QuPath v0.3?**
-* **Making ground truth image annotations (reasonably) fun**
-* **Better together: advanced scripting with QuPath + friends**
-  * **StarDist**
-  * **ImageJ**
-  * **OpenCV**
-  * **Java Topology Suite**
+QuPath v0.3.0-rc1 has *just* been released (as in, about an hour before the workshop).
 
-We're putting the finishing touches on QuPath v0.3.0, which we hope to release in June.
-If this happens, we'll notify you and ask you to download that so you can explore the very latest features.
+So make sure you're using the *very* latest version of the software, please [download it here](https://github.com/qupath/qupath/releases/tag/v0.3.0-rc1).
+</div>
+
+Throughout the practical session, we'll look at the following things:
